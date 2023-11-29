@@ -1,2 +1,2 @@
 # dictionaryRussianWords
-large dictionary of Russian words
+Тут короче много слов на русском языке, пользуйтесь как хотите :> ЕСЛИ ЧТО КОДИРОВКА UTF-8, ото вдруг.
